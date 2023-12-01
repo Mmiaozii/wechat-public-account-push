@@ -3,7 +3,7 @@ const TEMPLATE_CONFIG = [
   {
      id: '0001',
 
-    title: '洁子同学！晚上好呀！',
+    title: '洁子同学！晚上好呀！'
     
     
   },
