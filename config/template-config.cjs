@@ -1,18 +1,10 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: '0001',
+       id: '0001',
     ---
     title: '洁子同学！晚上好呀！！！',
-    ---
-      
-      
-      
-     
-      
-
-      
-
+    desc: `
     `
   },
   {
