@@ -9,8 +9,8 @@ const USER_CONFIG = {
 
   USE_PASSAGE: 'push-deer',
 
-  PROVINCE: '山东',
-  CITY: '泰安',
+  PROVINCE: '河南',
+  CITY: '开封',
 
   USERS: [
     {
