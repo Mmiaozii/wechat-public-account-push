@@ -20,7 +20,7 @@ const USER_CONFIG = {
       id: 'PDU26938TUWHu2fQWSoMU4N7GgmBJYHCsEgfxQbj4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
-      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
+      // 新生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '07-24',
       horoscopeDateType: '今日',
       festivals: [
